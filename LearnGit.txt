@@ -1,6 +1,2 @@
 Hôm nay là thứ 2
-<<<<<<< HEAD
 Ghi đè
-=======
-Hôm nay là thứ 3
->>>>>>> 7582a6b378fcbfc1b020271e4290e44e116832a3
